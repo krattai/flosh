@@ -1,0 +1,17 @@
+\section fish_indent fish_indent - indenter and prettifier
+
+\subsection fish_indent-synopsis Synopsis
+\fish{synopsis}
+fish_indent [OPTIONS]
+\endfish
+
+\subsection fish_indent-description Description
+
+`fish_indent` is used to indent a piece of fish code. `fish_indent` reads commands from standard input and outputs them to standard output.
+
+The following options are available:
+
+- `-i` or `--no-indent` do not indent commands; only reformat to one job per line
+
+- `-v` or `--version` displays the current fish version and then exits
+
