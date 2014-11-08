@@ -1,0 +1,3 @@
+When entering flosh shell, shell should have basic components of shell system and integrate the monoflow system.
+
+In other words, common file commands should be available and other commands should be recognized and interpreted as per monoflow.
